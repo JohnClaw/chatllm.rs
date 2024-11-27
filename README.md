@@ -4,11 +4,12 @@ rust api wrapper for llm-inference chatllm.cpp
 
 All credits go to original repo: https://github.com/foldl/chatllm.cpp and Qwen 2.5 32b Coder Instruct which made 99% of work. I only guided it with prompts.
 
-To compile your project into an executable, open a terminal and navigate to your project directory. Then, run the following command:
+To compile your project into an executable, open a terminal and navigate to your project directory.
+Then run the following command:
 
 cargo build --release
 
-Then launch executable like this: main.exe -m qwen2.5-1.5b.bin
+When exe will be ready launch it like this: main.exe -m qwen2.5-1.5b.bin
 
 Links for quantatized models:
 
